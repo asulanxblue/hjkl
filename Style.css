@@ -1,0 +1,31 @@
+header {
+
+    background:rgb(36, 34, 34) ;
+    text-align: center;
+    color: blueviolet;
+    padding: 25px;
+    font-size: large;
+}
+
+body {
+    background-color: rgb(173, 174, 175);
+    margin-bottom: 100px;
+}
+h3 {
+    font-size:x-large;
+    padding: 20px;
+}
+.pasaro {
+    margin-left: 150px;
+    margin-right: 150px;
+    background-color: blueviolet;
+    line-height: 50px;
+    width: 1000px;
+    font-family: Arial, Helvetica, sans-serif;
+}   
+ul li{
+
+    line-height: 25px;
+    
+    list-style-type: none;
+}
